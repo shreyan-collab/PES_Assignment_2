@@ -2,7 +2,9 @@
 Code for Assignment 2 for PES, ECEN 5813, Fall 21 
 
 Tools used: Gcc Compiler and Cygwin (installed in windows) 
+
 Download: https://www.cygwin.com/ 
+
 Command to run code: 1) gcc main.c -Wall -Werror 2) ./a.exe
 
 The repository consists of 
